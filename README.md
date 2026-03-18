@@ -6,7 +6,7 @@ to vote **NO** on ["Is AI-assisted development allowed?"][0] and not accept
 
 Node.js is a _critical infrastructure_ running on millions of servers online and
 supporting engineers through command-line utilities that they use daily. We
-believe that diluting the core  hand-written with _care and diligence_ over
+believe that diluting the core hand-written with _care and diligence_ over
 the years is against the mission and values of the project and should not be
 allowed. Accepting LLM changes to Node.js core would break the reputational
 bedrock of public contributions that have brought Node.js to its current
@@ -90,6 +90,7 @@ speed up the process.
 - Denys Nykula (JS/TS Programmer)
 - Bryan English (Node.js Core Collaborator, user since Ryan announced it)
 - Andrew Benbow (Web Developer)
+- Reilly Spitzfaden (Programmer, Node.js User)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
