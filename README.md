@@ -160,6 +160,7 @@ speed up the process.
 - Jocelyn Badgley (Software Engineer)
 - Daniel Fortes (Software Developer)
 - Neil Craig (Technical Architect, used Node since 0.13)
+- Griffin Johnston (Software Engineer, Node user since the early days)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
