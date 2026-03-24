@@ -184,6 +184,7 @@ speed up the process.
 - Lee Ashmore (Software Engineer)
 - Erik Westra (Developer)
 - Andrei Mandrican (Developer)
+- Sahil Agarwal (Developer, Nodejs user)
 - Benoît Bailleux (Software Architect / Corporate OpenSource Advocate)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
